@@ -1,4 +1,4 @@
-package com.agribank.baseproject.config;
+package com.agribank.baseproject.exception;
 
 import com.agribank.baseproject.exception.ValidationException;
 import com.agribank.baseproject.response.DefaultResponse;
